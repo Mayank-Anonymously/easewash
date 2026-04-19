@@ -1,6 +1,7 @@
 'use client';
 
 import React from 'react';
+import Link from 'next/link';
 
 export default function TopNavBar() {
   return (
@@ -14,10 +15,11 @@ export default function TopNavBar() {
         />
       </div>
       <div className="d-none d-md-flex align-items-center gap-4">
-        <a className="font-headline fw-bold text-decoration-none border-bottom border-2 border-primary pb-1" href="#services" style={{ color: 'var(--bs-primary)' }}>Services</a>
-        <a className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="#process">Process</a>
-        <a className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="#location">Location</a>
-        <a className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="#contact">Contact</a>
+        <Link className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="/about">About Us</Link>
+        <Link className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="/process">Our Process</Link>
+        <Link className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="/#services" style={{ color: 'var(--bs-primary)' }}>Services</Link>
+        <Link className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="/#location">Location</Link>
+        <Link className="font-headline fw-bold text-decoration-none text-muted transition-colors" href="/#contact">Contact</Link>
       </div>
       <a 
         href="https://wa.me/918307380058" 

@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function Footer() {
   return (
@@ -14,11 +15,13 @@ export default function Footer() {
         </div>
         
         <div className="d-flex flex-wrap justify-content-center gap-4 gap-md-5 mb-4">
-          <a className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="#">Wash & Fold</a>
-          <a className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="#">Express</a>
-          <a className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="#">Wash & Iron</a>
-          <a className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="#">Terms</a>
-          <a className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="#">Privacy</a>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/#services">Wash & Fold</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/process">Our Process</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/about">About Us</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/terms">Terms</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/privacy">Privacy</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/refund">Refund Policy</Link>
+          <Link className="text-muted text-decoration-underline text-underline-offset-4 fs-6 transition-colors" href="/cancellation">Cancellation Policy</Link>
         </div>
         
         <p className="text-muted fs-6 mb-4">
