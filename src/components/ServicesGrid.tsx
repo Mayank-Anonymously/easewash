@@ -50,7 +50,7 @@ export default function ServicesGrid() {
               <p className="text-white text-opacity-75 mb-4 leading-relaxed">Perfect for urgent needs & last-minute plans. Returned to you in record time.</p>
               <ul className="list-unstyled mb-4 d-flex flex-column gap-2">
                 <li className="d-flex align-items-center gap-2 fs-6 text-white text-opacity-90">
-                  <span className="material-symbols-outlined text-secondary-container fs-5">schedule</span> 4-6 Hour Delivery
+                  <span className="material-symbols-outlined text-secondary-container fs-5">schedule</span> 24 Hour Delivery
                 </li>
                 <li className="d-flex align-items-center gap-2 fs-6 text-white text-opacity-90">
                   <span className="material-symbols-outlined text-secondary-container fs-5">priority_high</span> Priority Handling
