@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
         
         <p className="text-muted fs-6 mb-4">
-          © 2024 EaseWash Laundry. Serving Tri-city: KHARAR • CHANDIGARH • MOHALI
+          © 2026 EaseWash Laundry. Serving Tri-city: KHARAR • CHANDIGARH • MOHALI
         </p>
         
         <div className="d-flex justify-content-center gap-3">
