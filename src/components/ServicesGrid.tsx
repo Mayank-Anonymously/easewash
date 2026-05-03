@@ -28,7 +28,7 @@ export default function ServicesGrid() {
                 </li>
               </ul>
               <a 
-                href="https://wa.me/918307380058" 
+                href="https://wa.me/919817866657" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="btn btn-outline-secondary rounded-pill fw-bold w-100 mt-auto shadow-sm"
@@ -57,7 +57,7 @@ export default function ServicesGrid() {
                 </li>
               </ul>
               <a 
-                href="https://wa.me/918307380058" 
+                href="https://wa.me/919817866657" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="btn btn-info rounded-pill fw-bold w-100 mt-auto text-on-secondary-fixed shadow"
@@ -85,7 +85,7 @@ export default function ServicesGrid() {
                 </li>
               </ul>
               <a 
-                href="https://wa.me/918307380058" 
+                href="https://wa.me/919817866657" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="btn btn-outline-secondary rounded-pill fw-bold w-100 mt-auto shadow-sm"

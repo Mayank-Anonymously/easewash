@@ -24,7 +24,7 @@ export default function RefundPage() {
 
             <section className="mb-5">
               <h3 className="font-headline fw-bold text-primary mb-3">3. Claim Process</h3>
-              <p className="font-body text-on-surface-variant leading-relaxed">To initiate a claim, please send a message to our WhatsApp support line (+91 8307380058) with your order details and photos of the garments in question.</p>
+              <p className="font-body text-on-surface-variant leading-relaxed">To initiate a claim, please send a message to our WhatsApp support line (+91 98178 66657) with your order details and photos of the garments in question.</p>
             </section>
 
             <div className="p-4 bg-surface-container-low rounded-xl text-center">

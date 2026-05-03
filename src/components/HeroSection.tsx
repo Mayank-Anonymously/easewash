@@ -18,11 +18,11 @@ export default function HeroSection() {
               <span className="text-secondary">We've got you covered!</span>
             </h1>
             <p className="text-on-surface-variant fs-5 mt-4 mb-4" style={{ maxWidth: '600px', lineHeight: '1.7' }}>
-              Experience Liquid Precision in garment care. Professional washing, crisp ironing, and rapid delivery right to your doorstep in the Tri-city area.
+              Experience Liquid Precision in garment care. Professional washing, crisp ironing, and rapid delivery right to your doorstep in <span className="fw-bold text-secondary">Kharar, Chandigarh, and Mohali</span>.
             </p>
             <div className="d-flex flex-wrap align-items-center gap-3 pt-2">
               <a 
-                href="https://wa.me/918307380058" 
+                href="https://wa.me/919817866657" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="btn signature-gradient text-on-primary px-5 py-3 rounded-xl fw-bold fs-5 shadow-xl hover-scale-102 transition-transform border-0 text-decoration-none"

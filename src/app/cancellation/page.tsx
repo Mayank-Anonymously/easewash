@@ -29,7 +29,7 @@ export default function CancellationPage() {
 
             <div className="p-4 bg-surface-container-low rounded-xl">
               <h4 className="font-headline fw-bold text-primary mb-2">How to Cancel</h4>
-              <p className="font-body text-on-surface-variant mb-0">The easiest way to cancel or reschedule is by replying to our WhatsApp conversation or calling us at +91 8307380058.</p>
+              <p className="font-body text-on-surface-variant mb-0">The easiest way to cancel or reschedule is by replying to our WhatsApp conversation or calling us at +91 98178 66657.</p>
             </div>
           </div>
         </div>

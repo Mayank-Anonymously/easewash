@@ -28,7 +28,7 @@ export default function PrivacyPage() {
             </section>
 
             <div className="p-4 bg-surface-container-low rounded-xl">
-              <p className="font-body text-on-surface-variant mb-0">If you have any questions regarding your privacy, please contact us via WhatsApp at +91 8307380058.</p>
+              <p className="font-body text-on-surface-variant mb-0">If you have any questions regarding your privacy, please contact us via WhatsApp at +91 98178 66657.</p>
             </div>
           </div>
         </div>
